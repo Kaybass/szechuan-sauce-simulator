@@ -10,7 +10,7 @@ int main() {
 
 
 std::string simulateTasteOfSauce() {
-	return "";
+	return "MMMMMMHHHHMMMM...you said this sauce was from a movie or something?";
 }
 
 std::string simulateOrder() {

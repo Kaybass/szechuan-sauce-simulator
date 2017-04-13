@@ -14,11 +14,11 @@ std::string simulateTasteOfSauce() {
 }
 
 std::string simulateOrder() {
-	return "";
+	return "Alright so that'll be 1 order of chicken nuggets with the Mulan movie sauce";
 }
 
 int numberOfSeasonsUntilWeGetTheSauce() {
-	return 0;
+	return 9;
 }
 
 bool stillAtShoneys() {

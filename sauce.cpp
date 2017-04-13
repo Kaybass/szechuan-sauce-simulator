@@ -1,19 +1,26 @@
 #include <iostream>
 #include <String>
-string welcomeMsg = "Welcome to Shoney's!";
-class szechSauce{
-	void printGotSaucesg(){
-		printf(welcomeMsg,);
-	}
-};
-class customer{
+#include "sauce.h"
+#include <gtest\gtest.h>
 
-};
-class order{
 
-};
+int main() {
 
-int main(){
-	
+}
+
+
+std::string simulateTasteOfSauce() {
+	return "";
+}
+
+std::string simulateOrder() {
+	return "";
+}
+
+int numberOfSeasonsUntilWeGetTheSauce() {
 	return 0;
+}
+
+bool stillAtShoneys() {
+	return false;
 }

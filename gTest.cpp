@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 #include "gtest/gtest.h"
-
+/*
 std::string simulateTasteOfSauce() {
 	return "MMMMMMHHHHMMMM...you said this sauce was from a movie or something?";
 }
@@ -17,7 +17,7 @@ int numberOfSeasonsUntilWeGetTheSauce() {
 bool stillAtShoneys() {
 	return true;
 }
-
+*/
 
 
 TEST(szeSauceSimTest, simulateTasteOfSauceTest){

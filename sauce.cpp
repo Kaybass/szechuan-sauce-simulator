@@ -5,6 +5,24 @@
 
 
 int main() {
+	
+	std::cout << simulateOrder();
+	
+	system("pause");
+	
+	std::cout << simulateTasteOfSauce();
+	
+	system("pause");
+	
+	if(stillAtShoneys()){
+		std::cout << "WE'RE STILL AT SHONEY'S THIS IS NOT A DRILL";
+	}
+	
+	system("pause");
+	
+	std::cout << numberOfSeasonsUntilWeGetTheSauce() << " more seasons till we get that sauce Morty.";
+	
+	system("pause");
 
 }
 
